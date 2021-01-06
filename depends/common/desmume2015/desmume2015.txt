@@ -1,1 +1,1 @@
-desmume2015 https://github.com/libretro/desmume2015/archive/a06da0c46c8ec0237cf600d4ccd405ae2c051645.zip
+desmume2015 https://github.com/libretro/desmume2015/archive/e6b3aa4f90cca3e8a7e364b0678f5460d838d76e.zip
