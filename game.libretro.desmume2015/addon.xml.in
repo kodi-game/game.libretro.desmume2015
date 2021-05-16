@@ -15,7 +15,9 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Nintendo - DS (DeSmuME 2015) git</summary>
-		<description lang="en_GB">Supported files: .nds, .bin</description>
+		<description lang="en_GB">Port of DeSmuME to libretro based on DeSmuME SVN circa 2015.
+
+Supported files: .nds, .bin</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.desmume2015</source>
