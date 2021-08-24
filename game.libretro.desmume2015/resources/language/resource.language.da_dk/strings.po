@@ -22,9 +22,7 @@ msgid "Nintendo - DS (DeSmuME 2015) git"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Port of DeSmuME to libretro based on DeSmuME SVN circa 2015.
-
-Supported files: .nds, .bin"
+msgid "Port of DeSmuME to libretro based on DeSmuME SVN circa 2015.[CR][CR]Supported files: .nds, .bin"
 msgstr ""
 
 msgctxt "#30000"
