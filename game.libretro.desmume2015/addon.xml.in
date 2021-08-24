@@ -18,6 +18,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.desmume2015</source>
 		<summary lang="en_GB">Nintendo - DS (DeSmuME 2015) git</summary>
-		<description lang="en_GB">Port of DeSmuME to libretro based on DeSmuME SVN circa 2015.</description>
+		<description lang="en_GB">Port of DeSmuME to libretro based on DeSmuME SVN circa 2015.[CR][CR]Supported files: .nds, .bin</description>
 	</extension>
 </addon>
