@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.desmume2015/resources/icon.png)
+![Nintendo - DS (DeSmuME 2015) icon](game.libretro.desmume2015/resources/icon.png)
 
 ### Fanart
 
