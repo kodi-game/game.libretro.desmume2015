@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Nintendo - DS (DeSmuME 2015)</summary>
 		<summary lang="en_GB">Nintendo - DS (DeSmuME 2015)</summary>
 		<summary lang="es_ES">Nintendo - DS (DeSmuME 2015)</summary>
 		<description lang="da_DK">En port af DeSmuME til libretro baseret på DeSmuME SVN, cirka 2015.</description>
