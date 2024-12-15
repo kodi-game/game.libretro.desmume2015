@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="desmume_internal_resolution" values="256x192|512x384|768x576|1024x768|1280x960|1536x1152|1792x1344|2048x1536|2304x1728|2560x1920" default="256x192"/>
 		<setting label="30002" type="select" id="desmume_num_cores" values="1|2|3|4" default="1"/>
 		<setting label="30003" type="select" id="desmume_cpu_mode" values="jit|interpreter" default="jit"/>
