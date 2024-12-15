@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "A port of DeSmuME to libretro based on DeSmuME SVN, circa 2015."
 msgstr "Una adaptación de DeSmuME a libretro basada en DeSmuME SVN, alrededor de 2015."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "Internal resolution (restart)"
 msgstr "Resolución interna (reiniciar)"
@@ -140,3 +136,7 @@ msgstr "Forzar Activación del Micrófono"
 msgctxt "#30028"
 msgid "Microphone Simulation Settings"
 msgstr "Ajustes de Simulación de Micrófono"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"

@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "A port of DeSmuME to libretro based on DeSmuME SVN, circa 2015."
 msgstr "大约在2015年，基于 DeSmuME SVN 的 DeSmuME 到 libretro 的移植。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Internal resolution (restart)"
 msgstr "内部分辨率（重新启动）"
@@ -140,3 +136,7 @@ msgstr "强制麦克风启用"
 msgctxt "#30028"
 msgid "Microphone Simulation Settings"
 msgstr "麦克风模拟设置"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
