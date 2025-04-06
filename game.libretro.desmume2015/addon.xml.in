@@ -25,11 +25,13 @@
 		<summary lang="da_DK">Nintendo - DS (DeSmuME 2015)</summary>
 		<summary lang="en_GB">Nintendo - DS (DeSmuME 2015)</summary>
 		<summary lang="es_ES">Nintendo - DS (DeSmuME 2015)</summary>
+		<summary lang="sv_SE">Nintendo - DS (DeSmuME 2015)</summary>
 		<summary lang="zh_CN">任天堂 - DS (DeSmuME 2015)</summary>
 		<description lang="da_DK">En port af DeSmuME til libretro baseret på DeSmuME SVN, cirka 2015.</description>
 		<description lang="de_DE">Eine Portierung von DeSmuME nach libretro basierend auf DeSmuME SVN, etwa 2015.</description>
 		<description lang="en_GB">A port of DeSmuME to libretro based on DeSmuME SVN, circa 2015.</description>
 		<description lang="es_ES">Una adaptación de DeSmuME a libretro basada en DeSmuME SVN, alrededor de 2015.</description>
+		<description lang="sv_SE">En portning av DeSmuME till libretro baserad på DeSmuME SVN, cirka 2015.</description>
 		<description lang="zh_CN">大约在2015年，基于 DeSmuME SVN 的 DeSmuME 到 libretro 的移植。</description>
 	</extension>
 </addon>
