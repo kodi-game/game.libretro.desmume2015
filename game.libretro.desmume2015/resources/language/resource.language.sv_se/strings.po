@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.desmume2015\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 19:36i\n"
-"PO-Revision-Date: 2025-04-14 08:16+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-desmume2015/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - DS (DeSmuME 2015)"
@@ -37,105 +37,121 @@ msgctxt "#30003"
 msgid "CPU mode"
 msgstr "CPU-läge"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "JIT block size"
-msgstr ""
+msgstr "Storlek på JIT-block"
 
 msgctxt "#30005"
 msgid "Screen layout"
-msgstr ""
+msgstr "Skärmlayout"
 
+#, fuzzy
 msgctxt "#30006"
 msgid "Hybrid layout scale (restart)"
-msgstr ""
+msgstr "Skala för hybridlayout (omstart)"
 
+#, fuzzy
 msgctxt "#30007"
 msgid "Hybrid layout show both screens"
-msgstr ""
+msgstr "Hybridlayout visar båda skärmarna"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Hybrid layout cursor always on small screen"
-msgstr ""
+msgstr "Hybridlayout: markören visas alltid på små skärmar"
 
 msgctxt "#30009"
 msgid "Enable mouse/pointer"
-msgstr ""
+msgstr "Aktivera mus/pekare"
 
 msgctxt "#30010"
 msgid "Pointer type"
-msgstr ""
+msgstr "Typ av pekare"
 
 msgctxt "#30011"
 msgid "Mouse Speed"
-msgstr ""
+msgstr "Mushastighet"
 
 msgctxt "#30012"
 msgid "Pointer Colour"
-msgstr ""
+msgstr "Pekarfärg"
 
+#, fuzzy
 msgctxt "#30013"
 msgid "Pointer mode l-analog"
-msgstr ""
+msgstr "Pekarläge l-analog"
 
+#, fuzzy
 msgctxt "#30014"
 msgid "Pointer mode r-analog"
-msgstr ""
+msgstr "Pekarläge r-analog"
 
+#, fuzzy
 msgctxt "#30015"
 msgid "Emulated pointer deadzone percent"
-msgstr ""
+msgstr "Emulerad pekare dödzon procent"
 
+#, fuzzy
 msgctxt "#30016"
 msgid "Emulated pointer acceleration modifier percent"
-msgstr ""
+msgstr "Emulerad pekare acceleration modifierare procent"
 
+#, fuzzy
 msgctxt "#30017"
 msgid "Emulated stylus pressure modifier percent"
-msgstr ""
+msgstr "Emulerad stylus tryck modifierare procent"
 
+#, fuzzy
 msgctxt "#30018"
 msgid "Enable emulated stylus jitter"
-msgstr ""
+msgstr "Aktivera emulerat stylusjitter"
 
 msgctxt "#30019"
 msgid "Load Game into Memory (restart)"
-msgstr ""
+msgstr "Läs in spelet i minnet (omstart)"
 
+#, fuzzy
 msgctxt "#30020"
 msgid "Enable Advanced Bus-Level Timing"
-msgstr ""
+msgstr "Aktiverar avancerad tidsinställning på bussnivå"
 
+#, fuzzy
 msgctxt "#30021"
 msgid "Firmware language"
-msgstr ""
+msgstr "Firmware-språk"
 
 msgctxt "#30022"
 msgid "Frameskip"
-msgstr ""
+msgstr "Hoppa över bildrutor"
 
+#, fuzzy
 msgctxt "#30023"
 msgid "Screen Gap"
-msgstr ""
+msgstr "Skärmgap"
 
+#, fuzzy
 msgctxt "#30024"
 msgid "Enable Edgemark"
-msgstr ""
+msgstr "Aktivera Edgemark"
 
+#, fuzzy
 msgctxt "#30025"
 msgid "Enable Line Hack"
-msgstr ""
+msgstr "Aktivera Line Hack"
 
 msgctxt "#30026"
 msgid "Enable TXT Hack"
-msgstr ""
+msgstr "Aktivera TXT Hack"
 
+#, fuzzy
 msgctxt "#30027"
 msgid "Force Microphone Enable"
-msgstr ""
+msgstr "Forcera aktivering av mikrofon"
 
 msgctxt "#30028"
 msgid "Microphone Simulation Settings"
-msgstr ""
+msgstr "Inställningar för mikrofonsimulering"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
