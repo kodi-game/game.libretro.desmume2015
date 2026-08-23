@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.desmume2015\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 19:36i\n"
-"PO-Revision-Date: 2024-12-27 21:51+0000\n"
+"PO-Revision-Date: 2026-08-23 08:32+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-desmume2015/it_it/>\n"
 "Language: it_it\n"
@@ -15,27 +15,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - DS (DeSmuME 2015)"
-msgstr ""
+msgstr "Nintendo - DS (DeSmuME 2015)"
 
 msgctxt "Addon Description"
 msgid "A port of DeSmuME to libretro based on DeSmuME SVN, circa 2015."
-msgstr ""
+msgstr "Un port di DeSmuME per libretro basato su DeSmuME SVN, circa 2015."
 
 msgctxt "#30001"
 msgid "Internal resolution (restart)"
-msgstr "Risoluzione interna (riavvio)"
+msgstr "Risoluzione interna (richiede riavvio)"
 
 msgctxt "#30002"
 msgid "CPU cores"
-msgstr ""
+msgstr "Core CPU"
 
 msgctxt "#30003"
 msgid "CPU mode"
-msgstr ""
+msgstr "Modalità CPU"
 
 msgctxt "#30004"
 msgid "JIT block size"
@@ -47,67 +47,67 @@ msgstr "Disposizione schermo"
 
 msgctxt "#30006"
 msgid "Hybrid layout scale (restart)"
-msgstr ""
+msgstr "Scala layout ibrido (richiede riavvio)"
 
 msgctxt "#30007"
 msgid "Hybrid layout show both screens"
-msgstr ""
+msgstr "Layout ibrido mostra entrambi gli schermi"
 
 msgctxt "#30008"
 msgid "Hybrid layout cursor always on small screen"
-msgstr ""
+msgstr "Layout ibrido cursore sempre sullo schermo piccolo"
 
 msgctxt "#30009"
 msgid "Enable mouse/pointer"
-msgstr ""
+msgstr "Abilita mouse/puntatore"
 
 msgctxt "#30010"
 msgid "Pointer type"
-msgstr ""
+msgstr "Tipo di puntatore"
 
 msgctxt "#30011"
 msgid "Mouse Speed"
-msgstr ""
+msgstr "Velocità mouse"
 
 msgctxt "#30012"
 msgid "Pointer Colour"
-msgstr ""
+msgstr "Colore puntatore"
 
 msgctxt "#30013"
 msgid "Pointer mode l-analog"
-msgstr ""
+msgstr "Modalità puntatore analogico sinistro"
 
 msgctxt "#30014"
 msgid "Pointer mode r-analog"
-msgstr ""
+msgstr "Modalità puntatore analogico destro"
 
 msgctxt "#30015"
 msgid "Emulated pointer deadzone percent"
-msgstr ""
+msgstr "Percentuale zona morta puntatore emulato"
 
 msgctxt "#30016"
 msgid "Emulated pointer acceleration modifier percent"
-msgstr ""
+msgstr "Percentuale modificatore accelerazione puntatore emulato"
 
 msgctxt "#30017"
 msgid "Emulated stylus pressure modifier percent"
-msgstr ""
+msgstr "Percentuale modificatore pressione pennino emulato"
 
 msgctxt "#30018"
 msgid "Enable emulated stylus jitter"
-msgstr ""
+msgstr "Abilita tremolio pennino emulato"
 
 msgctxt "#30019"
 msgid "Load Game into Memory (restart)"
-msgstr ""
+msgstr "Carica gioco in memoria (richiede riavvio)"
 
 msgctxt "#30020"
 msgid "Enable Advanced Bus-Level Timing"
-msgstr ""
+msgstr "Abilita temporizzazione avanzata a livello bus"
 
 msgctxt "#30021"
 msgid "Firmware language"
-msgstr ""
+msgstr "Lingua del firmware"
 
 msgctxt "#30022"
 msgid "Frameskip"
@@ -115,26 +115,62 @@ msgstr "Salto fotogrammi"
 
 msgctxt "#30023"
 msgid "Screen Gap"
-msgstr ""
+msgstr "Distanza tra schermi"
 
 msgctxt "#30024"
 msgid "Enable Edgemark"
-msgstr ""
+msgstr "Abilita marcatura bordi"
 
 msgctxt "#30025"
 msgid "Enable Line Hack"
-msgstr ""
+msgstr "Abilita hack linee"
 
 msgctxt "#30026"
 msgid "Enable TXT Hack"
-msgstr ""
+msgstr "Abilita hack texture"
 
 msgctxt "#30027"
 msgid "Force Microphone Enable"
-msgstr ""
+msgstr "Forza abilitazione microfono"
 
 msgctxt "#30028"
 msgid "Microphone Simulation Settings"
+msgstr "Impostazioni simulazione microfono"
+
+msgctxt "#30029"
+msgid "emulated"
+msgstr ""
+
+msgctxt "#30030"
+msgid "absolute"
+msgstr ""
+
+msgctxt "#30031"
+msgid "pressed"
+msgstr ""
+
+msgctxt "#30032"
+msgid "English"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Japanese"
+msgstr ""
+
+msgctxt "#30034"
+msgid "French"
+msgstr ""
+
+msgctxt "#30035"
+msgid "German"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Italian"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Spanish"
 msgstr ""
 
 #~ msgctxt "#30000"

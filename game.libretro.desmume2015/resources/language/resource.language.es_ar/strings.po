@@ -137,6 +137,42 @@ msgctxt "#30028"
 msgid "Microphone Simulation Settings"
 msgstr ""
 
+msgctxt "#30029"
+msgid "emulated"
+msgstr ""
+
+msgctxt "#30030"
+msgid "absolute"
+msgstr ""
+
+msgctxt "#30031"
+msgid "pressed"
+msgstr ""
+
+msgctxt "#30032"
+msgid "English"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Japanese"
+msgstr ""
+
+msgctxt "#30034"
+msgid "French"
+msgstr ""
+
+msgctxt "#30035"
+msgid "German"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Italian"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Spanish"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Ajustes"
