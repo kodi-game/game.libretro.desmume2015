@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.desmume2015\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 19:36i\n"
-"PO-Revision-Date: 2025-08-11 08:29+0000\n"
+"PO-Revision-Date: 2026-11-02 20:47+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-desmume2015/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - DS (DeSmuME 2015)"
@@ -49,15 +49,13 @@ msgctxt "#30006"
 msgid "Hybrid layout scale (restart)"
 msgstr "Skala för hybridlayout (omstart)"
 
-#, fuzzy
 msgctxt "#30007"
 msgid "Hybrid layout show both screens"
-msgstr "Hybridlayout visar båda skärmarna"
+msgstr "Visa båda skärmar i hybridlayout"
 
-#, fuzzy
 msgctxt "#30008"
 msgid "Hybrid layout cursor always on small screen"
-msgstr "Hybridlayout: markören visas alltid på små skärmar"
+msgstr "Markören för hybridlayout alltid på liten skärm"
 
 msgctxt "#30009"
 msgid "Enable mouse/pointer"
@@ -75,46 +73,38 @@ msgctxt "#30012"
 msgid "Pointer Colour"
 msgstr "Pekarfärg"
 
-#, fuzzy
 msgctxt "#30013"
 msgid "Pointer mode l-analog"
-msgstr "Pekarläge l-analog"
+msgstr "Pekarläge för vänster analogspak"
 
-#, fuzzy
 msgctxt "#30014"
 msgid "Pointer mode r-analog"
-msgstr "Pekarläge r-analog"
+msgstr "Pekarläge för höger analogspak"
 
-#, fuzzy
 msgctxt "#30015"
 msgid "Emulated pointer deadzone percent"
-msgstr "Emulerad pekare dödzon procent"
+msgstr "Dödzonsprocent för emulerad pekare"
 
-#, fuzzy
 msgctxt "#30016"
 msgid "Emulated pointer acceleration modifier percent"
-msgstr "Emulerad pekare acceleration modifierare procent"
+msgstr "Procent för modifiering av emulerad pekaracceleration"
 
-#, fuzzy
 msgctxt "#30017"
 msgid "Emulated stylus pressure modifier percent"
-msgstr "Emulerad stylus tryck modifierare procent"
+msgstr "Procent för modifiering av emulerat penntryck"
 
-#, fuzzy
 msgctxt "#30018"
 msgid "Enable emulated stylus jitter"
-msgstr "Aktivera emulerat stylusjitter"
+msgstr "Aktivera emulerat pennflimmer"
 
 msgctxt "#30019"
 msgid "Load Game into Memory (restart)"
 msgstr "Läs in spelet i minnet (omstart)"
 
-#, fuzzy
 msgctxt "#30020"
 msgid "Enable Advanced Bus-Level Timing"
-msgstr "Aktiverar avancerad tidsinställning på bussnivå"
+msgstr "Aktivera avancerad timing på bussnivå"
 
-#, fuzzy
 msgctxt "#30021"
 msgid "Firmware language"
 msgstr "Firmware-språk"
@@ -123,29 +113,25 @@ msgctxt "#30022"
 msgid "Frameskip"
 msgstr "Hoppa över bildrutor"
 
-#, fuzzy
 msgctxt "#30023"
 msgid "Screen Gap"
-msgstr "Skärmgap"
+msgstr "Skärmmellanrum"
 
-#, fuzzy
 msgctxt "#30024"
 msgid "Enable Edgemark"
-msgstr "Aktivera Edgemark"
+msgstr "Aktivera kantmarkering"
 
-#, fuzzy
 msgctxt "#30025"
 msgid "Enable Line Hack"
-msgstr "Aktivera Line Hack"
+msgstr "Aktivera linjehack"
 
 msgctxt "#30026"
 msgid "Enable TXT Hack"
 msgstr "Aktivera TXT Hack"
 
-#, fuzzy
 msgctxt "#30027"
 msgid "Force Microphone Enable"
-msgstr "Forcera aktivering av mikrofon"
+msgstr "Tvinga aktivering av mikrofon"
 
 msgctxt "#30028"
 msgid "Microphone Simulation Settings"
@@ -153,39 +139,39 @@ msgstr "Inställningar för mikrofonsimulering"
 
 msgctxt "#30029"
 msgid "emulated"
-msgstr ""
+msgstr "emulerad"
 
 msgctxt "#30030"
 msgid "absolute"
-msgstr ""
+msgstr "absolut"
 
 msgctxt "#30031"
 msgid "pressed"
-msgstr ""
+msgstr "nedtryckt"
 
 msgctxt "#30032"
 msgid "English"
-msgstr ""
+msgstr "Engelska"
 
 msgctxt "#30033"
 msgid "Japanese"
-msgstr ""
+msgstr "Japanska"
 
 msgctxt "#30034"
 msgid "French"
-msgstr ""
+msgstr "Franska"
 
 msgctxt "#30035"
 msgid "German"
-msgstr ""
+msgstr "Tyska"
 
 msgctxt "#30036"
 msgid "Italian"
-msgstr ""
+msgstr "Italienska"
 
 msgctxt "#30037"
 msgid "Spanish"
-msgstr ""
+msgstr "Spanska"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
